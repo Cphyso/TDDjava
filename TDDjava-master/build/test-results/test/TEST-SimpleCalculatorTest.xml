@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-31T15:53:28" hostname="00620JNBSGB167L" time="0.019">
+  <properties/>
+  <testcase name="testLastAndSlotAsParameters()" classname="SimpleCalculatorTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
